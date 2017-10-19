@@ -1,0 +1,18 @@
+h1{
+	background-color: #ffc107;
+	text-align: center;
+	border: solid;
+	border-color: black;
+}
+
+/*float: left*/;
+.texto1{
+	align-items: center;
+	border: 2px solid black
+	margin: 500px;
+	float:left;
+	background: white;
+	position: absolute;
+
+}
+
